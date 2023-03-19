@@ -3,6 +3,7 @@ import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer'
 import Background from './components/Background'
+import ScaleBar from './components/ScaleBar';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <h1 className='text-2xl m-2 font-semibold text-slate-900 dark:text-slate-50'>
           Visual Analog Scale
         </h1>
+        <ScaleBar />
       </div>
       <Footer />
     </div>
