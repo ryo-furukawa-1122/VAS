@@ -13,7 +13,7 @@ function App() {
     <div className='font-sans'>
       <Background />
       <Header />
-      <div className='container mx-auto relative'>
+      <div className='container mx-auto relative text-slate-800 dark:text-slate-100 flex flex-col justify-around'>
         <h1 className='text-2xl m-2 font-semibold text-slate-900 dark:text-slate-50'>
           Visual Analog Scale
         </h1>

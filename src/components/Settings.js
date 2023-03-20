@@ -10,7 +10,7 @@ const Settings = (props) => {
         setMin(Number(event.target.value));
     }
     return (
-        <div className='flex flex-row p-2 bg-slate-50 dark:bg-slate-700 w-5/6 mx-auto my-5 rounded shadow-md justify-evenly'>
+        <div className='flex flex-row p-2 bg-slate-50 dark:bg-slate-700 w-5/6 mx-auto my-6 rounded shadow-md justify-evenly'>
             <label className='m-2'>
                 Min
                 <input className='dark:bg-slate-500 w-20 mx-3' id='min' type={'text'} onChange={handleMin} />
