@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.298981mm"
+   height="42.967255mm"
+   viewBox="0 0 48.298981 42.967255"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="vasLogo.svg"
+   inkscape:export-filename="vasLogo.png"
+   inkscape:export-xdpi="131.18239"
+   inkscape:export-ydpi="131.18239"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="423.3231"
+     inkscape:cy="318.08688"
+     inkscape:window-width="1296"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.028795,-16.179761)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.079px;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.667491"
+       x="59.732304"
+       y="59.256111"
+       id="text366"
+       transform="scale(1.0420482,0.95964854)"><tspan
+         sodipodi:role="line"
+         id="tspan364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.667491"
+         x="59.732304"
+         y="59.256111">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.2974px;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.607262"
+       x="65.223831"
+       y="54.608356"
+       id="text370"
+       transform="scale(0.94802501,1.0548245)"><tspan
+         sodipodi:role="line"
+         id="tspan368"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.607262"
+         x="65.223831"
+         y="54.608356">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.0967px;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.584338"
+       x="87.070992"
+       y="53.55677"
+       id="text424"
+       transform="scale(0.92034615,1.0865477)"><tspan
+         sodipodi:role="line"
+         id="tspan422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script';fill:#00dbee;fill-opacity:1;stroke-width:0.584338"
+         x="87.070992"
+         y="53.55677">S</tspan></text>
+  </g>
+</svg>
