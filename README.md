@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Visual Analog Scale
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a desktop application created with React and Electron. 
 
 ## Application
 ![demo](https://user-images.githubusercontent.com/106366301/227187495-d866caba-a6d5-46fc-8a05-9854e9461a44.png)
